@@ -1,0 +1,13 @@
+# ignore HAPNEST reference & outputs
+hapnest/data/inputs/
+hapnest/data/outputs/
+
+# ignore your runs folder
+runs/
+
+# ignore caches and large binaries
+*.npy
+*.bed
+*.bim
+*.fam
+*.vcf.gz
