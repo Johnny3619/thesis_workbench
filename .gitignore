@@ -11,3 +11,4 @@ runs/
 *.bim
 *.fam
 *.vcf.gz
+runs/*.npy
