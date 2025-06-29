@@ -1,0 +1,21 @@
+PLINK v2.0.0-a.6.16LM AVX2 Intel (9 Jun 2025)
+Options in effect:
+  --bfile runs/G60k_real
+  --freq
+  --out runs/qc
+
+Hostname: DESKTOP-407O9VK
+Working directory: /home/johnnygal/workbench
+Start time: Tue Jun 17 22:47:31 2025
+
+Random number seed: 1750189651
+7780 MiB RAM detected, ~6752 available; reserving 3890 MiB for main workspace.
+Using up to 8 compute threads.
+2504 samples (0 females, 0 males, 2504 ambiguous; 2504 founders) loaded from
+runs/G60k_real.fam.
+60000 variants loaded from runs/G60k_real.bim.
+Note: No phenotype data present.
+Calculating allele frequencies... done.
+--freq: Allele frequencies (founders only) written to runs/qc.afreq .
+
+End time: Tue Jun 17 22:47:31 2025
